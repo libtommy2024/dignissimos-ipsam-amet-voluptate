@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dignissimos-ipsam-amet-voluptate",
-  "version": "10.39.443",
+  "version": "10.39.444",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -132,5 +132,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dignissimos-ipsam-amet-voluptate/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
